@@ -1,0 +1,13 @@
+{
+    "name": "骑云计时器 数据插件",
+    "author": "小马骑云",
+    "author_uri": "https://fpvtimer.cn",
+    "description": "同步数据到 https://fpvtimer.cn",
+    "info_uri": "https://fpvtimer.cn",
+    "license": "小马骑云",
+    "license_uri": "https://github.com/onebody/RotorHazard/",
+    "version": "1.0",
+    "required_rhapi_version": "1.0",
+    "update_uri": null,
+    "text_domain": null
+}
